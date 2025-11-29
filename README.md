@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Osman. 👋
 
-<!--
-**abdiqadirz/abdiqadirz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer based in **Minnesota**, finishing up my degree at Winona State.
 
-Here are some ideas to get you started:
+**The simple version:** I enjoy building things that make life easier for the people I care about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't just write code for the sake of it. Whether I'm designing an app to help people find food they can eat (like **HalalGo**), or analyzing data to help patients navigate health clinics, I want my work to have a real impact. I'm always eager to learn a new field or jump into a project I've never tried before.
+
+**Beyond the keyboard:**
+My community is everything to me. Outside of tech, I founded a non-profit (**Future Sheikhs Foundation**) that delivers clean water to underserved communities, and I stay active organizing events for students on campus. Helping people—whether through software or service—is what I enjoy doing the most.
+
+**What I'm up to:**
+* Building web tools that connect communities.
+* Learning about cloud architecture and security.
+* Occasionally fishing in the dark without a plan. 🎣
+
+[Connect on LinkedIn](https://linkedin.com/in/osmanabdiqadir)
