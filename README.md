@@ -2,12 +2,12 @@
 
 I'm a developer based in **Minnesota**, finishing up my degree at Winona State.
 
-**The simple version:** I enjoy building things that make life easier for the people I care about.
+I enjoy building things that make life easier for myself and the people I interact with daily. 
 
-I don't just write code for the sake of it. Whether I'm designing an app to help people find food they can eat (like **HalalGo**), or analyzing data to help patients navigate health clinics, I want my work to have a real impact. I'm always eager to learn a new field or jump into a project I've never tried before.
+These projects are a mix of automating repetive tasks, providing a platform to do more with less, and sometimes just to try new langauges and their syntax. I'm always eager to learn a new field or jump into a project I've never tried before.
 
 **Beyond the keyboard:**
-My community is everything to me. Outside of tech, I founded a non-profit (**Future Sheikhs Foundation**) that delivers clean water to underserved communities, and I stay active organizing events for students on campus. Helping people—whether through software or service—is what I enjoy doing the most.
+My community is everything to me. Outside of tech, I founded a non-profit (**Future Sheikhs Foundation**) that delivers clean water to underserved communities, and I stay active organizing events for my university and local community. Helping people—whether through software or service—is what I enjoy doing the most.
 
 **What I'm up to:**
 * Building web tools that connect communities.
