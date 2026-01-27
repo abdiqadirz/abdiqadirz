@@ -15,6 +15,4 @@ Right now, I am focusing on building web tools to help communities stay connecte
 * Suuqly: A muslim business directory app.
 * Learning about cloud architecture and security.
 * Automating outdated tasks in my current role using Python scripts or AI integrations. 
-
----
 [Connect on LinkedIn](https://linkedin.com/in/osmanabdiqadir)
