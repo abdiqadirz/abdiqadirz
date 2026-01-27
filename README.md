@@ -1,6 +1,6 @@
 **Hello!**
 
-I'm a developer based in **Minnesota**, and I'm finishing up my degree at Winona State. I like building things that make life a little easier for myself and the people I work with every day. Most of my projects are a mix of automating tasks that feel repetitive or just trying out new languages to see how they work. I'm always happy to jump into a project I've never tried before or learn about a field that is new to me.
+I'm a developer based in **Minnesota**, and I recentyl graduated from Winona State University. I like building things that make life a little easier for myself and the people I work with every day. Most of my projects are a mix of automating tasks that feel repetitive or just trying out new languages to see how they work. I'm always happy to jump into a project I've never tried before or learn about a field that is new to me.
 
 ---
 
