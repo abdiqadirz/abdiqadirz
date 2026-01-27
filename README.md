@@ -1,17 +1,12 @@
-### Hi, I'm Osman. 👋
+I'm a developer based in Minnesota, and I'm finishing up my degree at Winona State. I like building things that make life a little easier for myself and the people I work with every day. Most of my projects are a mix of automating tasks that feel repetitive or just trying out new languages to see how they work. I'm always happy to jump into a project I've never tried before or learn about a field that is new to me.
 
-I'm a developer based in **Minnesota**, finishing up my degree at Winona State.
+Outside of tech, my community is everything. I started a non-profit called Future Sheikhs Foundation where we focus on getting clean water to underserved communities. I also spend a lot of my time organizing events for my university and the people around me. Helping people is what I enjoy doing most, whether that happens through a piece of software or through direct service.
 
-I enjoy building things that make life easier for myself and the people I interact with daily. 
+Right now, I am focusing on building web tools to help communities stay connected and learning more about how cloud architecture and security work. When I'm not doing that, you can usually find me fishing in the dark without much of a plan.
 
-These projects are a mix of automating repetive tasks, providing a platform to do more with less, and sometimes just to try new langauges and their syntax. I'm always eager to learn a new field or jump into a project I've never tried before.
-
-**Beyond the keyboard:**
-My community is everything to me. Outside of tech, I founded a non-profit (**Future Sheikhs Foundation**) that delivers clean water to underserved communities, and I stay active organizing events for my university and local community. Helping people—whether through software or service—is what I enjoy doing the most.
-
-**What I'm up to:**
-* Building web tools that connect communities.
+**Current Projecs: **
+* Suuqly: A muslim business directory app.
 * Learning about cloud architecture and security.
-* Occasionally fishing in the dark without a plan. 🎣
+* Automating outdated tasks in my current role using Python scripts or AI integrations. 
 
 [Connect on LinkedIn](https://linkedin.com/in/osmanabdiqadir)
