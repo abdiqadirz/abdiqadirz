@@ -8,7 +8,7 @@ Outside of tech, my community is everything. I started a non-profit called Futur
 
 ---
 
-Right now, I am focusing on building web tools to help communities stay connected and learning more about how cloud architecture and security work. When I'm not doing that, you can usually find me fishing in the dark without much of a plan.
+Right now, I am focusing on building web tools to help communities stay connected and learning more about how cloud architecture and security work. When I'm not doing that, you can usually find me diving deep into a random subject I'll probably forget about in a weeks time. 
 
 ---
 **Current Projecs:**
