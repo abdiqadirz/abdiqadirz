@@ -1,18 +1,68 @@
 **Hello!**
 
-I'm a developer based in **Minnesota**, and I recentyl graduated from Winona State University. I like building things that make life a little easier for myself and the people I work with every day. Most of my projects are a mix of automating tasks that feel repetitive or just trying out new languages to see how they work. I'm always happy to jump into a project I've never tried before or learn about a field that is new to me.
+I'm a developer based in Minnesota, currently working as a software engineer at Mayo Clinic. I've always enjoyed building things that make life a little easier for myself and the people around me, whether that's automating something repetitive or working on an idea just to see where it goes. Outside of tech, my community is a big part of my life. I started FSF, a nonprofit focused on bringing clean water to underserved communities, and I've been organizing community events since my university days. I enjoy meeting new people, helping out where I can, and getting involved in things I've never tried before. If I'm not doing that, you can find me diving deep into a subject I'll probably forget about in a week's time. 
 
 ---
 
-Outside of tech, my community is everything. I started a non-profit called Future Sheikhs Foundation where we focus on getting clean water to underserved communities. I also spend a lot of my time organizing events for my university and the people around me. Helping people is what I enjoy doing most, whether that happens through a piece of software or through direct service.
+
+## What I'm Working On
+
+- **Software Engineering @ Mayo Clinic:** Working with .NET, Google Cloud, APIs, and data integrations on healthcare systems. I've also been building tools to make large codebases easier to navigate and improve how engineering knowledge is shared.
+- **Quran Tracker:** Building an app focused on Quran memorization, Arabic learning, and understanding the Quran.
+- **Exploring:** Finding useful applications for AI in software development and learning more about distributed systems, cloud infrastructure, and security.
 
 ---
 
-Right now, I am focusing on building web tools to help communities stay connected and learning more about how cloud architecture and security work. When I'm not doing that, you can usually find me diving deep into a random subject I'll probably forget about in a weeks time. 
+## Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-202020?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-202020?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-202020?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-202020?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-202020?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-202020?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-202020?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-202020?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-202020?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-202020?style=for-the-badge)
+
+**Databases & APIs**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-202020?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-202020?style=for-the-badge&logo=graphql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-202020?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Google_Pub%2FSub-202020?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202020?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-202020?style=for-the-badge&logo=supabase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-202020?style=for-the-badge)
+
+**Developer Tools**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-202020?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-202020?style=for-the-badge)
+
+</div>
 
 ---
-**Current Projecs:**
-* Suuqly: A muslim business directory app.
-* Learning about cloud architecture and security.
-* Automating outdated tasks in my current role using Python scripts or AI integrations. 
-[Connect on LinkedIn](https://linkedin.com/in/osmanabdiqadir)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osmanabdiqadir)
+
+</div>
+
+
+</div>
