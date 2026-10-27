@@ -1,6 +1,6 @@
 **Hello!**
 
-I'm a developer based in Minnesota, currently working as a software engineer at Mayo Clinic. I've always enjoyed building things that make life a little easier for myself and the people around me, whether that's automating something repetitive or working on an idea just to see where it goes. Outside of tech, my community is a big part of my life. I started FSF, a nonprofit focused on bringing clean water to underserved communities, and I've been organizing community events since my university days. I enjoy meeting new people, helping out where I can, and getting involved in things I've never tried before. If I'm not doing that, you can find me diving deep into a subject I'll probably forget about in a week's time. 
+I'm a developer based in Minnesota, currently working as a software developer in healthcare. I've always enjoyed building things that make life a little easier for myself and the people around me, whether that's automating something repetitive or working on an idea just to see where it goes. Outside of tech, my community is a big part of my life. I started FSF, a nonprofit focused on bringing clean water to underserved communities, and I've been organizing community events since my university days. I enjoy meeting new people, helping out where I can, and getting involved in things I've never tried before. If I'm not doing that, you can find me diving deep into a subject I'll probably forget about in a week's time. 
 
 ---
 
