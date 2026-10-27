@@ -22,11 +22,8 @@ I'm a developer based in Minnesota, currently working as a software engineer at 
 ![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-202020?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-202020?style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-202020?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-202020?style=for-the-badge&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-202020?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Cloud & Infrastructure**
@@ -44,15 +41,12 @@ I'm a developer based in Minnesota, currently working as a software engineer at 
 ![BigQuery](https://img.shields.io/badge/BigQuery-202020?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Pub/Sub](https://img.shields.io/badge/Google_Pub%2FSub-202020?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202020?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-202020?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-202020?style=for-the-badge)
 
 **Developer Tools**
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-202020?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-202020?style=for-the-badge)
 
 </div>
 
