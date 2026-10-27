@@ -7,7 +7,7 @@ I'm a developer based in Minnesota, currently working as a software engineer at 
 
 ## What I'm Working On
 
-- **Software Engineering @ Mayo Clinic:** Working with .NET, Google Cloud, APIs, and data integrations on healthcare systems. I've also been building tools to make large codebases easier to navigate and improve how engineering knowledge is shared.
+- **Software Engineering:** Working with .NET, Google Cloud, APIs, and data integrations on healthcare systems. I've also been building tools to make large codebases easier to navigate and improve how engineering knowledge is shared.
 - **Quran Tracker:** Building an app focused on Quran memorization, Arabic learning, and understanding the Quran.
 - **Exploring:** Finding useful applications for AI in software development and learning more about distributed systems, cloud infrastructure, and security.
 
